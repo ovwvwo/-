@@ -1,0 +1,7 @@
+numpy
+pandas
+spacy
+tensorflow
+transformers
+python-docx
+tkinter
